@@ -110,7 +110,7 @@ Ubuntu
 ~~~~~~
 You can install mps-youtube directly from the official repositories:
 
-    [sudo] apt install mps-youtube
+    [sudo] apt install mps-youtube python-gobject python-dbus
 
 macOS X
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
